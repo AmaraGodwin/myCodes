@@ -1,0 +1,4 @@
+echo 'God is good'
+date
+cal -3
+echo 'end'
