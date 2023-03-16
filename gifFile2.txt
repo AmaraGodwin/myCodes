@@ -1,0 +1,5 @@
+echo 'hi'
+echo 'what is your name'
+return $name
+echo 'Thank you $name, nice to meet you'
+echo 'end of message'
