@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T05:33:14.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" version="21.3.2" etag="eWqsne1RfCkDuzL86det" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T05:36:38.129Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="sCUahTDmN6_ExkrSQbcy" version="21.3.2" type="github">
   <diagram name="Page-1" id="aYmF3Zzdf5Z3byBTbMZ7">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gp4DCNVQhtmm2ejWb_a5-1" value="courses" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gp4DCNVQhtmm2ejWb_a5-2" value="course offerings" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
