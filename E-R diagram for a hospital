@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T01:40:31.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="b6JAHB3JfdUeZv44hrRS" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T01:43:04.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="V27ggIuboDIFc4tYQ3Fi" version="21.3.2" type="github">
   <diagram name="Page-1" id="6ARfn8S5QP1G6xlY-0Nl">
     <mxGraphModel dx="993" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,10 +25,10 @@
         <mxCell id="4ozsoyUeYE5uq3-4aCjb-10" value="Tests and Examinations" style="whiteSpace=wrap;html=1;align=center;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="590" y="320" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ozsoyUeYE5uq3-4aCjb-12" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="4ozsoyUeYE5uq3-4aCjb-12" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ozsoyUeYE5uq3-4aCjb-13" value="insurance" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="4ozsoyUeYE5uq3-4aCjb-13" value="insurance" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="540" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ozsoyUeYE5uq3-4aCjb-14" value="Gynecologists" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="4ozsoyUeYE5uq3-4aCjb-16" value="Surgeons" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="720" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4ozsoyUeYE5uq3-4aCjb-17" value="Patients ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="4ozsoyUeYE5uq3-4aCjb-17" value="Patients ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4ozsoyUeYE5uq3-4aCjb-18" value="Pediatricians" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
