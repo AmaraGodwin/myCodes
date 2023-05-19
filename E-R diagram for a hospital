@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T01:05:05.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="c-xyz5o2S2Ssn7CCyzs0" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T01:08:06.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="K40c6ePQ6L9EdrdxKzo3" version="21.3.2" type="github">
   <diagram name="Page-1" id="6ARfn8S5QP1G6xlY-0Nl">
     <mxGraphModel dx="993" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -128,6 +128,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="341" as="sourcePoint" />
             <mxPoint x="260" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="341" />
+              <mxPoint x="280" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I6vboFfJMvv2bXnKWJd4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I6vboFfJMvv2bXnKWJd4-14" target="4ozsoyUeYE5uq3-4aCjb-10">
@@ -140,15 +144,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="600" as="sourcePoint" />
             <mxPoint x="659.33" y="500" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I6vboFfJMvv2bXnKWJd4-17" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="I6vboFfJMvv2bXnKWJd4-17" value="blood test" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="630" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I6vboFfJMvv2bXnKWJd4-18" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="I6vboFfJMvv2bXnKWJd4-18" value="pregnancy test" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="580" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I6vboFfJMvv2bXnKWJd4-19" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="I6vboFfJMvv2bXnKWJd4-19" value="Urine test" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="530" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I6vboFfJMvv2bXnKWJd4-20" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
