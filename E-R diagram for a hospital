@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T01:28:14.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="roMFLcQJ087v9EOqK1yB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T01:29:41.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="ijNfsk7KXQn1MCWH3ywr" version="21.3.2" type="github">
   <diagram name="Page-1" id="6ARfn8S5QP1G6xlY-0Nl">
     <mxGraphModel dx="993" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
         <mxCell id="I6vboFfJMvv2bXnKWJd4-19" value="Urine test" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="530" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I6vboFfJMvv2bXnKWJd4-20" value="Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="I6vboFfJMvv2bXnKWJd4-20" value="Dental test" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="730" y="680" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I6vboFfJMvv2bXnKWJd4-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4ozsoyUeYE5uq3-4aCjb-10" target="I6vboFfJMvv2bXnKWJd4-19">
